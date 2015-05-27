@@ -17,9 +17,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "1.7.10-2.1"
-group= "com.khairex.woolmod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "woolmod"
+version = "1.7.10-1.0"
+group= "com.khairex.songcraft" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "songcraft"
 
 minecraft {
     version = "1.7.10-10.13.2.1291"

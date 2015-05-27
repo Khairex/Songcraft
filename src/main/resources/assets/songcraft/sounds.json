@@ -1,0 +1,11 @@
+{
+  "sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sound",
+        "stream": true
+      }
+    ]
+  }
+}
