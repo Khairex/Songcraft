@@ -1,6 +1,6 @@
 package com.Khairex.songcraft.item;
 
-import com.Khairex.songcraft.client.GuiTest;
+import com.Khairex.songcraft.client.gui.GuiTest;
 import com.Khairex.songcraft.utility.NBTHelper;
 import net.minecraft.client.Minecraft;
 import net.minecraft.creativetab.CreativeTabs;
