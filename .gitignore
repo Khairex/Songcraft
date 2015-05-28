@@ -18,6 +18,7 @@ hs_err_pid*
 /eclipse
 /out
 
+
 # OSX
 # =========================
 
@@ -60,3 +61,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Songcraft.iws
