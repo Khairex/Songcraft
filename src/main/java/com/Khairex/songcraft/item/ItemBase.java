@@ -1,5 +1,6 @@
 package com.Khairex.songcraft.item;
 
+import com.Khairex.songcraft.creativetab.CreativeTabSongcraft;
 import com.Khairex.songcraft.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,6 +13,7 @@ public class ItemBase extends Item
 	public ItemBase()
 	{
 		super();
+		this.setCreativeTab(CreativeTabSongcraft.SONG_TAB);
 	}
 
 	@Override
