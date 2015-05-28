@@ -1,4 +1,4 @@
-package com.Khairex.songcraft.client;
+package com.Khairex.songcraft.client.gui;
 
 import com.Khairex.songcraft.reference.Reference;
 import net.minecraft.client.gui.GuiButton;
